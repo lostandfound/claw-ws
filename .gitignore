@@ -1,5 +1,6 @@
 .DS_Store
 .openclaw/
+.playwright-mcp/
 .env
 **/*.key
 **/*.pem

@@ -52,6 +52,13 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - `trash` > `rm` (recoverable beats gone forever)
 - When in doubt, ask.
 
+## Execution & Errors
+
+- **Report failures immediately** — when you receive a system error message (exec failed, command not found, etc.), report it to the user right away
+- **Never ignore failures** — don't continue with other tasks and hope the user won't notice
+- **Don't pretend success** — if a command failed, say so clearly
+- Ignoring failures is dishonest and wastes the user's time
+
 ## External vs Internal
 
 **Safe to do freely:**
