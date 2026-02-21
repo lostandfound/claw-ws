@@ -1,3 +1,14 @@
+---
+tags:
+  - tidy-up
+  - bulky-waste
+  - nishitokyo
+aliases:
+  - 粗大ごみ
+created: 2026-02-21
+modified: 2026-02-21
+---
+
 # 粗大ごみリスト
 
 ## 基本情報

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HEARTBEAT.md",
+                "file": "memory/2026-02-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HEARTBEAT"
+              "title": "2026-02-20"
             }
           }
         ]
@@ -183,13 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "457d6b0054437f1e",
+  "active": "0c08a068e36e0d6b",
   "lastOpenFiles": [
+    "fashion/profile.md",
+    "memory/2026-02-17-1612.md",
+    "tidy-up/laundry.md",
+    "AGENTS.md",
+    "HEARTBEAT.md",
     "USER.md",
     "TOOLS.md",
     "SOUL.md",
-    "IDENTITY.md",
-    "HEARTBEAT.md",
-    "AGENTS.md"
+    "IDENTITY.md"
   ]
 }

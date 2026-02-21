@@ -1,3 +1,14 @@
+---
+tags:
+  - tidy-up
+  - areas
+  - status
+aliases:
+  - エリア管理
+created: 2026-02-21
+modified: 2026-02-21
+---
+
 # エリア別片付け状況
 
 ## リビング
