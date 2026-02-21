@@ -1,3 +1,15 @@
+---
+tags:
+  - workspace
+  - guide
+  - agent-instructions
+aliases:
+  - Workspace Guide
+  - Agent Rules
+created: 2026-02-20
+modified: 2026-02-21
+---
+
 # AGENTS.md - Your Workspace
 
 This folder is home. Treat it that way.

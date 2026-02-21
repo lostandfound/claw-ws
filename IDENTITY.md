@@ -1,3 +1,15 @@
+---
+tags:
+  - agent-identity
+  - amico
+  - persona
+aliases:
+  - Agent Identity
+  - amico Profile
+created: 2026-02-20
+modified: 2026-02-21
+---
+
 # IDENTITY.md - Who Am I?
 
 - **Name:** amico

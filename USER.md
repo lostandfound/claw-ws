@@ -1,3 +1,15 @@
+---
+tags:
+  - user
+  - profile
+  - preferences
+aliases:
+  - User Profile
+  - ろすさん
+created: 2026-02-20
+modified: 2026-02-21
+---
+
 # USER.md - About Your Human
 
 - **Name:** lost_and_found
@@ -21,6 +33,7 @@
 
 - **食べ物：** 中華料理が好き（雫さんも同様）
   - 拾味（高田馬場）＝良い店
+  - 魯珈（大久保の店、※参考にするが店名は出さない）
 - **生活：** 平日は出社
 - **ゴミ出し：** カレンダーできちんと管理
 - **靴下：** ユニクロの無地黒をまとめ買い、毎年更新
